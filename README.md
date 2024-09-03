@@ -85,7 +85,7 @@ btc-rpc-explorer
 
 ###### Note: The below AUR package was created and is maintained by [@dougEfresh](https://github.com/dougEfresh). The details and history of the package can be seen [here](https://aur.archlinux.org/packages/btc-rpc-explorer/).
 
-1. `git clone https://aur.archlinux.org/btc-rpc-explorer.git`
+1. `git clone https://github.com/furiousteam/btc-rpc-explorer.git`
 2. `cd btc-rpc-explorer`
 3. `makepkg -csi`
 4. `systemctl enable --now btc-rpc-explorer`
